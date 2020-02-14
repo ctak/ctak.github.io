@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://example.org/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Fri, 14 Feb 2020 19:06:19 +0900</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Test</title>
+      <link>http://example.org/post/test/</link>
+      <pubDate>Fri, 14 Feb 2020 19:06:19 +0900</pubDate>
+      
+      <guid>http://example.org/post/test/</guid>
+      <description>hello hugo 재미있는데 한글은 잘 나오나?
+긴 글을 쓰면 어떻게 보이지?
+Whenever I publish a post about blogging, my aim is to help you to create a successful blog – not just another blog like thousands and thousands of others in the blogosphere that never go anywhere.
+Creating a successful blog either happens by accident or with a well-planned strategy. With the immense growth in both inbound marketing and the awareness of blogging, we have unlimited guides on the web to help us to create a content-based blog that is meaningful and appreciated by the masses.</description>
+    </item>
+    
+  </channel>
+</rss>
